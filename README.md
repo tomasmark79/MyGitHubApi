@@ -1,7 +1,7 @@
 # My GitHub Api
 
 Author: **Tomáš Mark**  
-Version: **0.0.1**
+Version: **main**
 
 [![Ubuntu](https://github.com/tomasmark79/MyGitHubApi/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/tomasmark79/MyGitHubApi/actions/workflows/ubuntu.yml)
 [![MacOS](https://github.com/tomasmark79/MyGitHubApi/actions/workflows/macos.yml/badge.svg)](https://github.com/tomasmark79/MyGitHubApi/actions/workflows/macos.yml)
