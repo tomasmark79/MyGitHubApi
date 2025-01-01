@@ -1,4 +1,2 @@
 cmake/*.cmake linguist-detectable=false
 SolutionController.py linguist-detectable=false
-SolutionRenamer.py linguist-detectable=false
-SolutionUpgrader.py linguist-detectable=false
