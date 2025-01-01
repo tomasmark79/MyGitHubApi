@@ -1,4 +1,4 @@
 cmake/*.cmake linguist-detectable=false
-Standlone/CMakeLists.txt linguist-detectable=false
-*.py linguist-detectable=false
+Standalone/CMakeLists.txt linguist-detectable=false
+
 
