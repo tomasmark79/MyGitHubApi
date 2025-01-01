@@ -1,3 +1,2 @@
-cmake/*.cmake linguist-detectable=false
+*.cmake linguist-detectable=false
 Utilities/*linguist-detectable=false
-SolutionController.py linguist-detectable=false
