@@ -14,7 +14,7 @@ using json = nlohmann::json;
 #define GITHUB_OAUTH_TOKEN_FILE (std::string) "/home/tomas/.github_oauth.key"
 #define GITHUB_USERNAME         (std::string) "tomasmark79"
 
-#define DEBUG 1
+#define DEBUG 0
 
 MyGitHubApi::MyGitHubApi()
 {
